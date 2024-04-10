@@ -1,6 +1,6 @@
 # Hi!
 ## Programming/IT student at Haaga-Helia.
-Currently working on my final courses:
+Currently working on my final courses.
 ## A group project building a ticket purchasing application
 - utilising Scrum
 - Java, Spring Boot
@@ -8,7 +8,7 @@ Currently working on my final courses:
 ## Mobile application
 - JS, React Native, Expo
 ##
-If you wish to see my previous coursework, send me a message and I will grant you access.
+
 <!--
 **dskmbbltd/dskmbbltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
