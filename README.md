@@ -1,6 +1,7 @@
 # Hi!
 ## Programming/IT student at Haaga-Helia.
-⬇Currently working on my final courses.⬇
+
+⬇Latest course projects (finished)⬇
 ## A group project building a ticket purchasing application
 - utilising Scrum
 - Java, Spring Boot
