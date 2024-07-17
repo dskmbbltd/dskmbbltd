@@ -6,6 +6,7 @@
 - utilising Scrum
 - Java, Spring Boot
 - MySQL
+- React frontend
 ## Mobile application
 - JS, React Native, Expo
 ##
