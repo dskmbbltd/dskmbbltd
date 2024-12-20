@@ -1,5 +1,5 @@
 # Hi!
-## Programming/IT student at Haaga-Helia.
+
 
 
 <!--
