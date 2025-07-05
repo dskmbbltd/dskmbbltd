@@ -1,4 +1,4 @@
-# Hi!
+Mainly small personal projects that I've worked on during my free time. Motivated by curiousity and the will to improve.
 
 
 
